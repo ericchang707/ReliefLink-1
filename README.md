@@ -26,6 +26,7 @@ An app to assist suicide prevention, from coping techniques to relaxation exerci
 - Eric Chang
 - Bronson Wong
 - George Chen
+- Matthew Wright
 
 ## Former Team Members
 

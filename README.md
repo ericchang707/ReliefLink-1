@@ -102,6 +102,28 @@ We suggest that you speak to the programmers on your team. You can try this link
 
 # Major Release Notes
 
+## v1.3.0
+
+Backend intergration update part 2, we have integrated more of the backend using users' accounts so that the information they save is consistent across all updates/versions of the app when using the same account.
+
+### New Features
+- Backend
+  - Users can now record and save thoughts in an online diary within the application
+  - Users can create and save a crisis plan specific to them in the application
+  - Users can save and use emergency contacts for urgent situations within the app
+
+### Bug Fixes
+- Issues with trying to register with existing account have been fixed
+
+### Known Issues
+- Autocomplete in Crisis Plan can miss suggestions
+- Duplicated Header after completing the onboarding
+- Pixel overflow can occur if too many contacts are added
+- If the image chosen isn't high quality, it can look really blurry when displayed
+- Sometimes error messages for incorrect login or existing registration don't show up
+
+# Previous Release Notes
+
 ## v1.2.0
 
 Backend intergration update. We have implemented the ability for users to register, authenticate, and login to their respective accounts.
@@ -119,9 +141,6 @@ Backend intergration update. We have implemented the ability for users to regist
 - Duplicated Header after completing the onboarding
 - Pixel overflow can occur if too many contacts are added
 - If the image chosen isn't high quality, it can look really blurry when displayed
-
-
-# Previous Release Notes
 
 ## v1.1
 

@@ -112,5 +112,5 @@ List<ReliefTechniqueData> activities = [
       image: "https://i.imgur.com/0lCSxNZ.jpg",
       videoLink:
           "https://mainlinecounselingpartners.com/wp-content/uploads/2015/08/ProduceLauraMTS.mp4",
-      favorite: false),
+      favorite: false),tru
 ];

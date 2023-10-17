@@ -6,7 +6,7 @@ List<ReliefTechniqueData> activities = [
       duration: 15,
       mood: "Anxious",
       image: "https://i.imgur.com/0JOQJSI.png", 
-      videoLink:
+      videoL
           "https://mainlinecounselingpartners.com/wp-content/uploads/2015/08/ProduceLauraMTS.mp4",
       favorite: false),
   ReliefTechniqueData(
